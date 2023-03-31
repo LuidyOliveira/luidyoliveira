@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/luidyoliveira">
-  <img  width="45%" height="180em" src="[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luidyoliveira)](https://github.com/anuraghazra/github-readme-stats)"/>
+  <img  width="45%" height="180em" src="[![luidy oliveira wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luidyoliveira)](https://github.com/luidyoliveira/github-readme-stats)"/>
   <img width="45%" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luidyoliveira&&show_icons=true&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
