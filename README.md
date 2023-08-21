@@ -2,7 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/luidyoliveira">
-    <img  width="45%" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luidyoliveira&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117"/>
+   <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=luidyoliveira&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117 -->
+    <img  width="45%" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117"/>
   <img width="50%" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luidyoliveira&&show_icons=true&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
