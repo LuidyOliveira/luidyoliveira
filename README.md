@@ -4,7 +4,7 @@
   <a href="https://github.com/luidyoliveira">
    <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=luidyoliveira&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117 -->
     <img  width="45%" height="180em"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luidyoliveira&layout=compact&langs_count=16&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117"/>
-  <img width="50%" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luidyoliveira&&show_icons=true&theme=dark"/>
+  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=luidyoliveira&&show_icons=true&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
